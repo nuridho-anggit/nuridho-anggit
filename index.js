@@ -105,15 +105,14 @@ function computeCommitsBeforeCutoff(contributorData, cutoffDate) {
 
 async function updateReadme(userData) {
   const TEMPLATE_PATH = "./main.mustache";
-  await fs.readFile(TEMPLATE_PATH, (err, data) => {
-    if (err) {
-      throw err;
-    }
+  const template = await fs.promises.readFile(TEMPLATE_PATH, "utf-8");
 
-    const output = Mustache.render(data.toString(), userData);
-    fs.writeFileSync("README.md", output);
-  });
+  const output = Mustache.render(template, userData);
+  console.log("Rendered Output:", output);  // Debug line
+
+  fs.writeFileSync("README.md", output);
 }
+
 
 async function main() {
   const repoData = await grabDataFromAllRepositories();
@@ -130,7 +129,12 @@ async function main() {
 
   // Hex color codes for the color blocks
   const colors = ["474342", "fbedf6", "c9594d", "f8b9b2", "ae9c9d"];
-  await updateReadme({ totalStars, totalCommitsInPastYear, colors });
+  
+  const userData = { totalStars, totalCommitsInPastYear, colors };
+  console.log("User Data:", userData);  // Debug line
+
+  await updateReadme(userData);
 }
+
 
 main();
