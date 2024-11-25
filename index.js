@@ -2,6 +2,8 @@ require("dotenv").config();
 const Mustache = require("mustache");
 const fs = require("fs");
 const { Octokit } = require("@octokit/rest");
+const githubUsername = process.env.GH_USERNAME;
+
 
 
 //wleowleo
