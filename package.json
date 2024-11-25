@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/nuridho-anggit/nuridho-anggit#readme",
   "dependencies": {
-    "@octokit/rest": "^21.0.2",
+    "@octokit/rest": "^18.5.5",
     "dotenv": "^10.0.0",
     "mustache": "^4.2.0"
   }
