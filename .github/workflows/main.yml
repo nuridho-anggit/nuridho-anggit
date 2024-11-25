@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '10 10 * * *'
+    - cron: '7 10 * * *'
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       - name: Use NodeJs 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "15.x"
+          node-version: "14.x"
 
       - name: Cache npm dependencies
         uses: actions/cache@v2
