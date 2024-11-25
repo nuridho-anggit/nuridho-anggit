@@ -30,9 +30,6 @@ jobs:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
           GH_USERNAME: ${{ secrets.GH_USERNAME }}
 
-      - name: Debug after running script
-        run: cat README.md
-
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
