@@ -114,17 +114,17 @@ async function updateReadme(userData) {
 }
 
 async function main() {
-  // const repoData = await grabDataFromAllRepositories();
+  const repoData = await grabDataFromAllRepositories();
 
-  // const totalStars = calculateTotalStars(repoData);
+  const totalStars = calculateTotalStars(repoData);
 
-  // const lastYear = new Date();
-  // lastYear.setFullYear(lastYear.getFullYear() - 1);
+  const lastYear = new Date();
+  lastYear.setFullYear(lastYear.getFullYear() - 1);
 
-  // const totalCommitsInPastYear = await calculateTotalCommits(
-  //   repoData,
-  //   lastYear
-  // );
+  const totalCommitsInPastYear = await calculateTotalCommits(
+    repoData,
+    lastYear
+  );
 
   // Hex color codes for the color blocks
   const colors = ["474342", "fbedf6", "c9594d", "f8b9b2", "ae9c9d"];
