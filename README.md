@@ -1,5 +1,9 @@
 ```zsh
-> neofetch
+~$ sudo apt-get install neofetch
+```
+
+```zsh
+~$ neofetch
 ```
 
 <img align="left" src="https://i.kym-cdn.com/photos/images/original/002/509/036/ee2.gif" alt="https://i.kym-cdn.com/photos/images/original/002/509/036/ee2.gif" width="325" /> 
