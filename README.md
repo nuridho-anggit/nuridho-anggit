@@ -21,7 +21,7 @@ Frameworks: HAPI
 Languages: JavaScript, Python,
            Go, Java
 Learning: Node.js, Hapi, MySQL, Kubernetes, 
-          Docker, Google Cloud Platform, AWS, DevOps Things
+          Docker, Google Cloud Platform, AWS, Many DevOps Things
 Hobbies: Writing, Gaming, Cooking
 Discord: nuridho
 ```
