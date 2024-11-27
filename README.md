@@ -17,15 +17,15 @@ Frameworks: HAPI
 Languages: JavaScript, Python,
            Go, Java
 Learning: Node.js, Hapi, MySQL, Kubernetes, 
-          Docker, Google Cloud Platform, AWS,
-          DevOps Things
+          Docker, Google Cloud Platform, AWS, DevOps Things
 Hobbies: Writing, Gaming, Cooking
 Discord: nuridho
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <img alt="#171616" src="https://via.placeholder.com/15/171616/000000?text=+" width="25" height="20" /><img alt="#ff1717" src="https://via.placeholder.com/15/ff1717/000000?text=+" width="25" height="20" /><img alt="#40b48e" src="https://via.placeholder.com/15/40b48e/000000?text=+" width="25" height="20" /><img alt="#f0bc4b" src="https://via.placeholder.com/15/f0bc4b/000000?text=+" width="25" height="20" /><img alt="#4a7cbb" src="https://via.placeholder.com/15/4a7cbb/000000?text=+" width="25" height="20" /><img alt="#7c5bbb" src="https://via.placeholder.com/15/7c5bbb/000000?text=+" width="25" height="20" /><img alt="#2AA1B3" src="https://via.placeholder.com/15/2AA1B3/000000?text=+" width="25" height="20" /><img alt="#cfcfcf" src="https://via.placeholder.com/15/cfcfcf/000000?text=+" width="25" height="20" />
 </p>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
