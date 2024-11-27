@@ -26,8 +26,9 @@ Discord: nuridho
 </p>
 
 
+<br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nuridho-anggit">
