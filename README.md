@@ -19,8 +19,8 @@ Pronouns: He/Him
 Location: Bandung, Indonesia
 Frameworks: HAPI
 Languages: Python, Javascript
-Learning: Cloud Computing, AWS, SysAdm, Javascript, Kubernetes, Docker,  
-           Many DevOps Things
+Learning: AWS, GCP, SysAdm, Python, Kubernetes,  
+            Docker, Many DevOps Things
 Hobbies: Reading, Writing, Cooking 
 Discord: nuridho
 ```
