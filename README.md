@@ -1,9 +1,9 @@
 ```zsh
-~$ sudo apt-get install neofetch
+~$ sudo dnf install fastfetch
 ```
 
 ```zsh
-~$ neofetch
+~$ fastfetch
 ```
 
 <img align="left" src="https://i.kym-cdn.com/photos/images/original/002/509/036/ee2.gif" alt="https://i.kym-cdn.com/photos/images/original/002/509/036/ee2.gif" width="325" /> 
@@ -11,17 +11,16 @@
 ```csharp
 nuridho-anggit@github
 -------------------------
-OS: Ubuntu 24.04.1 LTS x86_64
+OS: Fedora Linux 42 (Workstation Edition) x86_64
 Kernel: 6.8.0-49-generic
 Uptime: 4 days, 8 hours
 Shell: bash 5.2.21
 Pronouns: He/Him
 Location: Bandung, Indonesia
 Frameworks: HAPI
-Languages: JavaScript, Python,
-           Go, Java
-Learning: Node.js, Hapi, MySQL, Kubernetes, Docker,  
-          Google Cloud Platform, AWS, Many DevOps Things
+Languages: Python, Javascript
+Learning: Cloud Computing, AWS, SysAdm, Javascript, Kubernetes, Docker,  
+           Many DevOps Things
 Hobbies: Reading, Writing, Cooking 
 Discord: nuridho
 ```
