@@ -32,7 +32,7 @@ Discord: nuridho
 <div align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,ubuntu,vim,jenkins,kubernetes,docker,gcp" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,aws,gcp,linux,fedora,vim,docker" />
   </a>
 
 </div>
